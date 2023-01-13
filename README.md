@@ -12,5 +12,5 @@ Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Repr
   * [Notes](https://cs50.harvard.edu/x/2023/notes/0/#summing-up)
   * [Classroom Projects](https://scratch.mit.edu/studios/32028395)
 
-- Problem Set 1
+- Problem Set 0
   * My project
