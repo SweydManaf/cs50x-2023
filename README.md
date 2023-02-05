@@ -1,3 +1,11 @@
+<p align="center">
+<img src=".github/harvard-logo.png" alt="logo" height="150"/>
+</p>
+
+<h1 align="center">
+Harvard CS50x — 2023
+</h1>
+
 # CS50x - Solutions 2023
 
 > A quick word on Academic Honesty. While these solutions will help you to get through the course without too much effort, you should do your best to figure out a working solution yourself before taking a look at any of my solutions. Investing your time and energy into solving the problem sets yourself is in my opinion the only way to eventual mastery.
